@@ -1,0 +1,2 @@
+--Lab03 Haskell File
+--Sample Haskell file for Lab03
