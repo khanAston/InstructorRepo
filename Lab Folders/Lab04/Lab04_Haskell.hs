@@ -1,2 +1,0 @@
---Lab04 Haskell File
---Sample Haskell file for Lab04
