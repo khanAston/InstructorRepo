@@ -4,9 +4,10 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
+  // calm g edit made by Wise Old Duck in GitPod
 
 
-  //Last line print('Good bye')
+  //Last line print('TURNMEUP')
 }
 
 void testMethod2()
